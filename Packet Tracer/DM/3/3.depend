@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1509458695 source:/home/suntse/Bureau/DM/3/main.c
+	<stdio.h>
+	<stdlib.h>
+

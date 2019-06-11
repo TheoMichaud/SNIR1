@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1508225226 source:/home/USERS/ELEVES/SNIR2017/tmichaud/SNIR1/LangageC/TABLEAU/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1508225403 source:/home/USERS/ELEVES/SNIR2017/tmichaud/SNIR1/LangageC/TABLEAU/temp.c
+	<stdio.h>
+	<stdlib.h>
+
